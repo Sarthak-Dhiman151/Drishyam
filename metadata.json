@@ -1,0 +1,7 @@
+{
+  "name": "Drishyam",
+  "description": "Uses your device's camera and AI to provide real-time descriptions of the world around you, identifying objects, people, text, and emotions to assist with navigation and social interactions.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
