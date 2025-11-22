@@ -1,7 +1,5 @@
 # Drishyam (दृृश्यम) - AI Narrator for Accessibility
 
-http://googleusercontent.com/image_generation_content/0 *Turning Sight into Sound for Everyone.*
-
 [![Hackathon](https://img.shields.io/badge/Project-Hackathon%20Winner-gold)](https://your-hackathon-link.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Status](https://img.shields.io/badge/status-proof--of--concept-lightgrey)](https://github.com/your-username/drishyam)
@@ -38,4 +36,5 @@ The technology is complex, but the user experience is simple:
 1.  **Capture or Upload:** The user points their camera at an object or uploads an existing image.
 2.  **AI Analysis:** In seconds, our vision model analyzes the scene to understand its content.
 3.  **Narrative Generation:** The AI crafts a clear text description based on the user's preferred detail level.
+
 4.  **Audio Playback:** The description is read aloud through the device's speaker or headphones.
